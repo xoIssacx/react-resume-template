@@ -198,13 +198,13 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Evonas',
     description: 'Evonas is a fullstack ecommerce platform, allowing developers alike to sell their products.',
     url: 'https://evonas.store/',
-    image: porfolioImage1,
+    image: porfolio1,
   },
   {
     title: 'Los Angeles Roleplay Community',
     description: 'Los Angeles Roleplay Community is a ROBLOX roleplaying community, allowing roleplayers to feel welcome.',
     url: 'https://laroleplay.net/',
-    image: porfolioImage2,
+    image: porfolio2,
   },
 ];
 
